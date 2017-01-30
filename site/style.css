@@ -2,9 +2,26 @@
 border-radius:0;
 border:0;
 }
+
+.navbar-brand {
+  float: left;
+  height: 60px;
+  padding: 10px 10px;
+  font-size: 22px;
+  line-height: 20px;
+}
+
 h1 {font-weight:bold;}
-h4 {color:white;}
+h4 {color:white;
+text-align:left;
+padding-top:px;}
+h3 {font-size:23px;
+font-weight:bold;
+}
 .extra {background:#F08080;
-margin:30px;
-color:white;}
+
+margin:60px;
+color:white;
+font-size:18px;
+border:2px solid black;}
 p {margin-left:20px;}
